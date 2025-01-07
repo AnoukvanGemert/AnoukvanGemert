@@ -1,14 +1,12 @@
 <div  align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGUwZGliNi0wZDU4NDgyMC00NWQ5LTQ5YzgtYTU0ZC1hMzNiOThhYzgzNzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oIKwFOK9Aqd8E2YOv8KDWQoSyNhyM_7E6T34Td20ZKE" height="100%"/>
+  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" height="100%"/>
 <h1>Hi there</h1>
   <p>I'm a first-year software developer student at the Bit Academy in Amsterdam. I love to learn new things and explore different technologies. Currently I'm improving my skills in the frameworks <strong>Angular</strong> and <strong>Vue</strong></p>
 </div>
 
-<div align="center">
- 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+<div display="flex">
+<img src="https://streak-stats.demolab.com/?user=AnoukvanGemert&theme=radical" alt="Profile Views" height="230px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnoukvanGemert&layout=donut&theme=radical" alt="Profile Views" height="230px"/>
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnoukvanGemert&layout=compact&theme=radical" alt="Profile Views" />
-
-
 
