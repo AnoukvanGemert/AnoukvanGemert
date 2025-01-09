@@ -6,7 +6,7 @@
 
 <p>
   <div>
-    <h2 display="flex">🔧Programming languages:</h2>
+    <h2 display="flex">🔧Programming Languages:</h2>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -24,7 +24,23 @@
   </div>
 </p>
 <p >
-  <h2>📊 My most used Languages</h2>
+  <h2>📊 My Most Used Languages:</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnoukvanGemert&layout=donut&theme=radical" alt="languages" height="200px"/>
+</p>
+
+## 🎵 Currently Listening To:
+
+**GRL GVNG** - XG
+
+[Listen on Spotify](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl?si=xUHmND43QBq1OZ0Xg6R6HA&nd=1&dlsi=43327cee1feb4d2a)
+
+
+
+
+<p>
+  <h2>🌐 Where To Find Me:</h2>
+  <a href="https://www.linkedin.com/in/anouk-van-gemert-780884198/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
 </p>
 
