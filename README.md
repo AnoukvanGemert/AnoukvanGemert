@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" height="100%"/>
   <h1>Hi there 👋</h1>
   <p>I'm a first-year software developer student at the Bit Academy in Amsterdam. I love to learn new things and explore different technologies. Currently I'm improving my skills in the frameworks <strong>React</strong>, <strong>Vue</strong> and with the programming language <strong>Python</strong></p> 
 </div>
@@ -39,13 +38,12 @@
   [Check out my progress!](https://www.codedex.io/@anoukvgemert37994/30-nites-of-code)  
   ![@anoukvgemert37994 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=anoukvgemert37994)
 
-
-
-
 <p>
   <h2>🌐 Where To Find Me:</h2>
   <a href="https://www.linkedin.com/in/anouk-van-gemert-780884198/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </p>
+
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" height="100%"/>
 
