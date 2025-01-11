@@ -34,6 +34,10 @@
 
 [Listen on Spotify](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl?si=xUHmND43QBq1OZ0Xg6R6HA&nd=1&dlsi=43327cee1feb4d2a)
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@anoukvgemert37994/30-nites-of-code)  
+  ![@anoukvgemert37994 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=anoukvgemert37994)
+
 
 
 
